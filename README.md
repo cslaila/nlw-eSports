@@ -1,3 +1,5 @@
-# nlw-eSports - Rocketseat
+##  Projeto desenvolvido para conexão entre gamers.
+Neste projeto foi utilizado React JS, TypeScript, NodeJS, Express
 
-Desenvolvimento Backend e Frontend de um projeto do universo dos games utilizando React, TypeScript, Tailwind, NodeJS, Express
+
+Este projeto foi desenvolvido durante a NLW eSports realizada pela **@Rocketseat**.
